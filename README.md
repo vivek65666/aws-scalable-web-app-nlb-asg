@@ -15,6 +15,9 @@ This repository contains the architecture setup, deployment steps, and verificat
 
 ## 📸 Architecture Screenshots & Verification
 
+## Architecture Overview
+![AWS Scalable Web Application Architecture](Architecture.png)
+
 ### 1. Web Application Access via NLB
 Verified the web app output using the DNS endpoint provided by the Network Load Balancer.
 ![Browser Output](./01-browser-output.png)
